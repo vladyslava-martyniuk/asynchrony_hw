@@ -1,0 +1,13 @@
+body {
+font-family: Arial,
+sans-serif; text-align: center; 
+}
+#animated-box {
+width: 100px; 
+height: 100px;
+background-color: teal;
+position: absolute;
+top: 50%; 
+left: 50%;
+transform: translate(-50%, -50%); 
+}
